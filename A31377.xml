@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Causes of Scotland's miseries a poem in imitation of the VI. Ode of the third book of Horace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31377</idno>
+            <idno type="STC">Wing C1538</idno>
+            <idno type="STC">ESTC R40318</idno>
+            <idno type="EEBO-CITATION">18845823</idno>
+            <idno type="OCLC">ocm 18845823</idno>
+            <idno type="VID">108424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Causes of Scotland's miseries a poem in imitation of the VI. Ode of the third book of Horace.</title>
+                  <author>Horace. Carmina Liber III, 6.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Watson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108424:1" rendition="simple:additions"/>
+            <p>THE CAUSES OF Scotland's Miſeries. A POEM IN Imitation of the VI. Ode of the Third Book OF HORACE.</p>
+            <q>
+               <l>Coelum ipſum petimus ſtultitia: ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Per noſtrum patimur ſcelus</l>
+               <l>Iracunda <hi>Jovem</hi> ponere fulmina.</l>
+               <bibl>
+                  <hi>Horat. Lib. 1. Ode 3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>James Watſon</hi> in <hi>Craig</hi>'s Cloſs, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:108424:2"/>
+            <pb n="3" facs="tcp:108424:2"/>
+            <head>THE CAUSES OF <hi>Scotland's Miſeries.</hi> A POEM IN Imitation of the VI. Ode of <hi>Horace</hi>'s THIRD BOOK,</head>
+            <q>
+               <l>DElicta majorum immeritus lues,</l>
+               <l>
+                  <hi>Romane,</hi> donec Templa refeceris</l>
+               <l>Aedeiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> labenteis Deorum, &amp;</l>
+               <l>Foeda nigro Simulacra fumo.</l>
+            </q>
+            <lg>
+               <l>IN vain, Heroick <hi>SCOTS,</hi> in vain ye try</l>
+               <l>True ſolid Eaſe, and calm Proſperity,</l>
+               <l>By all your Tow'ring Projects to attain,</l>
+               <l>While Guilt and Sacrilege your Land do ſtain;</l>
+               <l>While in the Duſt your Church's Glories ly;</l>
+               <l>Your Church which once ſo Fam'd for Purity,</l>
+               <l>Her awful Head did raiſe above the Sky,</l>
+               <l>Darting ſuch dazling Luſtre all around,</l>
+               <l>As did with Panick Fears her Foes Confound.</l>
+               <pb n="4" facs="tcp:108424:3"/>
+               <l>But now, alas! with Rubbiſh cover'd or'e,</l>
+               <l>She's Hiſs'd at, that was Terrible before.</l>
+               <l>But till ſuch time as ye with Pains repair</l>
+               <l>Her Ruins, and her ſtately Turrets rear</l>
+               <l>Out of the Duſt, to their firſt Dignity,</l>
+               <l>Ne're think t' enjoy your Ancient Liberty:</l>
+               <l>No, tho in naked Innocence your Souls</l>
+               <l>Were bath'd, which yet your human State controuls,</l>
+               <l>Your Sires black Perjuries hang o're your Head,</l>
+               <l>And all the Guiltleſs Blood that they have ſhed,</l>
+               <l>Which Heaven's avenging Juſtice at your Hand,</l>
+               <l>Beyond all Controverſy, will demand.</l>
+            </lg>
+            <q>
+               <l>Dis te minorem quod geris imperas:</l>
+               <l>Hinc omne principium, huc referexitum.</l>
+               <l>Dii multa neglecti dederunt</l>
+               <l>Heſperiae mala luctuoſae.</l>
+            </q>
+            <lg>
+               <l>'Tis from the Bounty of th' Almighty God,</l>
+               <l>Whoſe Providential Care and Divine Nod</l>
+               <l>Rule the wide Univerſe, as He doth pleaſe:</l>
+               <l>Or that ye are, or are in Peace and Eaſe.</l>
+               <l>As ſolely pure Devotion did you raiſe,</l>
+               <l>To wear Triumphant and Victorious Bays;</l>
+               <l>So Pure Devotion muſt you ſtill Defend</l>
+               <l>From dreadful Judgements, and a dreadful End.</l>
+               <l>God knows! ſince we His Precepts have forſook,</l>
+               <l>And ſhaken from our Necks His eaſy Yoak,</l>
+               <l>How like the foaming Billows in their Pride,</l>
+               <l>One Scourge upon another's Back does ride,</l>
+               <l>In ſuch a ſort, that Ruin ſeems to be</l>
+               <l>The fatal Upſhot of our Miſerie.</l>
+            </lg>
+            <pb n="5" facs="tcp:108424:3"/>
+            <q>
+               <l>Jam bis <hi>Monaeſes</hi> &amp; <hi>Pacori</hi> manus,</l>
+               <l>Non auſpicatos contudit impetus</l>
+               <l>Noſtros: —</l>
+               <l>Poene occupatam Seditionibus</l>
+               <l>Delevit urbem <hi>Dacus,</hi> &amp;c.</l>
+            </q>
+            <lg>
+               <l>No real Service we to Heav'n now pay</l>
+               <l>In meer Hypocriſy we <hi>Fast</hi> and <hi>Pray,</hi>
+               </l>
+               <l>Ordroop but like Bul-ruſhes for a Day.</l>
+               <l>Th' Almighty vext, in fiery Wrath look'd down,</l>
+               <l>Our guilty Nation trembled at His Frown;</l>
+               <l>And in His Anger paſt this juſt Decree:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Since they a Formal Service pay to Me,</hi>
+               </l>
+               <l>
+                  <hi>A mighty Phantom their Reward ſhall be;</hi>
+               </l>
+               <l>
+                  <hi>Their Hopes I'll raiſe above their Hearts content,</hi>
+               </l>
+               <l>
+                  <hi>And tantalize their wiſh'd Enjoyment,</hi>
+               </l>
+               <l>
+                  <hi>Till they, in Sorrow, for their Sins Repent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He ſpoke, and we the ſad Effects have found,</l>
+               <l>He daſh'd our infant Hopes againſt the Ground,</l>
+               <l>And all our ſwelling Expectations drown'd:</l>
+               <l>Civil Diſcords did rend our Bowels a while,</l>
+               <l>And Forreign Swords hang o're our lab'ring Iſle:</l>
+               <l>Death and his frightful Syth has ſtalk'd abroad,</l>
+               <l>And mow'd down Men, like Graſs upon his Road:</l>
+               <l>Diſeaſes all in ſwarmy Crowds do wait</l>
+               <l>On the great Executioner of Fate:</l>
+               <l>Dearth, near to Famine, has haraſs'd the Land</l>
+               <l>For ſev'ral Years, by the Divine Command,</l>
+               <l>By which the num rous Poor, for Hunger ſtarv'd,</l>
+               <l>Have ſuffer'd that which others beſt deſerv'd:</l>
+               <l>Devouring Flames, like wing'd Deſtroyers flew,</l>
+               <l>Commiſſion'd Winds to their Aſſiſtance blew,</l>
+               <l>(Oh! 'twas a Dreadful and a Diſmal Show)</l>
+               <l>And in a trice their boundleſs Rage burnt down</l>
+               <l>The greateſt Glories of the Imperial Town;</l>
+               <pb n="6" facs="tcp:108424:4"/>
+               <l>The horrid Devaſtations made of late,</l>
+               <l>Look like a Curſe more, than a common Fate.</l>
+            </lg>
+            <q>
+               <l>Faecunda culpae ſaecula, nuptias</l>
+               <l>Primum inquinavere &amp; genus &amp; domos,</l>
+               <l>Hoc fonte derivata clades</l>
+               <l>In Patriam, Populum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fluxit.</l>
+               <l>Motus doceri gaudet <hi>Ionicus</hi>
+               </l>
+               <l>Matura Virgo: <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <lg>
+               <l>This fruitful Age of Vice did firſt begin</l>
+               <l>With Breach of Solemn Vows, their Trade of Sin;</l>
+               <l>From which vile Source ſuch corrupt Streams did riſe,</l>
+               <l>As drown'd the Land in a Deluge of Vice:</l>
+               <l>All Ties to Sacred Duties ſhaken off,</l>
+               <l>Men then at Piety began to ſcoff,</l>
+               <l>And by Degrees, unto that hight it grew,</l>
+               <l>Each did bare-fac'd Prophanity avow.</l>
+               <l>Pure Virtue is neglected every where,</l>
+               <l>While Vice does in her gaudy Pomp appear;</l>
+               <l>The Court debauch'd with ev'ry leud Exceſs,</l>
+               <l>Th' obſequous Vulgar did commit no leſs;</l>
+               <l>In ev'ry Place you could not fail to hear</l>
+               <l>Men brag how they did Swagger, Drink and Swear,</l>
+               <l>And boaſt of open Whoredoms without Fear.</l>
+               <l>The Women too, whoſe Crown ſhould only be</l>
+               <l>A Modeſt, Prudent, Decent Gravity,</l>
+               <l>Exchanged all for Impudence and Pride,</l>
+               <l>And act'd their Part in ev'ry Sin beſide.</l>
+               <l>They who their Solemn Ties entire conſerv'd,</l>
+               <l>And from the Time's Contagion were preferv'd,</l>
+               <l>By wicked Edicts various ways oppreſt,</l>
+               <l>No Peace at Home, Abroad could find no Reſt,</l>
+               <pb n="7" facs="tcp:108424:4"/>
+               <l>By ſavage Ruffians pillag'd of their Wealth,</l>
+               <l>They could not enjoy. Water but by ſtealth.</l>
+               <l>Nay, which is more, deny'd the common Air,</l>
+               <l>And forc'd by cruel Foes to ſad Deſpair,</l>
+               <l>They fly like Birds before the Fowler's Snare;</l>
+               <l>Murd'red in Fields, on Scaffolds, drown'd in Waves,</l>
+               <l>Some ſtrangely Tortur'd, others Sold for Slaves,</l>
+               <l>They could find no Repoſe but in their Graves:</l>
+               <l>Laity and Clergy all diſtain'd in Gore,</l>
+               <l>Made more impartial Foes their Practices abhor.</l>
+               <l>Such as the Reins of Government did hold,</l>
+               <l>By Native Pride and wicked Counſel bold,</l>
+               <l>Took all the Means they could to puſh their way</l>
+               <l>T'erect Tyrannick Arbitrary Sway.</l>
+               <l>Theſe were our Fathers Sins, and ours are worſe,</l>
+               <l>The ſureſt Marks of an impending Curſe.</l>
+            </lg>
+            <lg>
+               <l>Great are our Sins, and juſt is our Diſtreſs,</l>
+               <l>We Nothing Practiſe, and we All Profeſs.</l>
+               <l>Survey Time's muſty Regiſters; look round</l>
+               <l>The far extended habitable Ground,</l>
+               <l>If you a Vip'riſh Race like this can find,</l>
+               <l>A Race that's bent on Ills of every kind,</l>
+               <l>That bafled Nature's Dictats do defy,</l>
+               <l>And Mock the Precepts of Divinity,</l>
+               <l>When God (in Words) they ſeem to Glorify.</l>
+               <l>The Rich Man's Buſs'neſs is t' Oppreſs the Poor,</l>
+               <l>He will not, Aid the Starving at his Door,</l>
+               <l>Yet he'll beſtow Ten Guineas on a Whore.</l>
+               <l>Nor God nor Man the Rich Oppreſſor fears;</l>
+               <l>Man does Neglect, God for a time forbears,</l>
+               <l>But ſure our Cries are echo'd in his Ears;</l>
+               <l>His kindled Indignation will take vent,</l>
+               <l>And Blaſt them with ſome Dreadful Puniſhment.</l>
+               <l>A Publick Spirit's vaniſh'd quite away,</l>
+               <l>And Private Int'reſts all our Actions ſway,</l>
+               <l>For this the Father will the Son betray:</l>
+               <l>What <hi>Scots</hi> Man now dares, for his Country's Good,</l>
+               <l>Venture a Drop of his degen'rat Blood.</l>
+               <l>O Heavens! of what Crimes have we been free?</l>
+               <l>A Land polluted to a Prodigie.</l>
+            </lg>
+            <pb n="8" facs="tcp:108424:5"/>
+            <q>
+               <l>Non his Juventus orta Parentibus</l>
+               <l>Infecit aequor Sanguine <hi>Punico:</hi>
+               </l>
+               <l>
+                  <hi>Pyrrum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> &amp; ingentem cecidit</l>
+               <l>
+                  <hi>Antiochum, Annibalem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> dirum.</l>
+            </q>
+            <lg>
+               <l>They were not ſuch mean Sp'rited Sots I gueſs,</l>
+               <l>Our Sires, whoſe Progeny made <hi>Rome</hi> confeſs,</l>
+               <l>Maugre her ſpreading Lawrels, and in ſpight</l>
+               <l>Of all her Martial Troops, innur'd to Fight,</l>
+               <l>That <hi>Scotland</hi> bred a Feirce and Warlick Crue,</l>
+               <l>Whoſe ſtubborn Tempers they could ne're ſubdue:</l>
+               <l>Nor could a Stock, Vitious like this, produce</l>
+               <l>Such Hero's as great <hi>WALLACE</hi> and the <hi>BRUCE,</hi>
+               </l>
+               <l>Who by ſly Stratagems and brisk Allarms,</l>
+               <l>Did put a Stop t' <hi>Edward</hi>'s encroaching Arms.</l>
+               <l>Did our Anceſtors, in Queen <hi>Mary</hi>'s Reign,</l>
+               <l>Their Native Rights to Tyranny reſign?</l>
+               <l>If ſo, we yet had groan'd beneath the Yoak</l>
+               <l>Of <hi>Popiſh</hi> Slav'ry, which they bravely broak.</l>
+            </lg>
+            <q>
+               <l>Damnoſa quid non imminuit dies?</l>
+               <l>Aetas Parentum pejor avis, tulit</l>
+               <l>Nos nequiores, mox daturos</l>
+               <l>Progeniem vitioſiorem.</l>
+            </q>
+            <lg>
+               <l>What need I thus our Age of Crimes accuſe?</l>
+               <l>What does not all-corrupting Time abuſe?</l>
+               <l>Our Grandſires happier Age in Word and Deed,</l>
+               <l>For Virtue did our Fathers Age exceed;</l>
+               <l>Juſt as our Fathers Age did far outdo</l>
+               <l>All virtous Acts we can pretend unto:</l>
+               <l>And, Ah! avert it Heaven, methinks I ſee</l>
+               <l>That we'll tranſmit unto Futuritie</l>
+               <l>An Off-ſpring, yet more profligat than we.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108424:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
